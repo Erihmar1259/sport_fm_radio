@@ -15,7 +15,7 @@ Color cyanBtnColor = const Color(0xFF95D6EC);
 Color starColor = const Color(0xFFFFE500);
 Color premiumColor1 = const Color(0xFFFFE177);
 Color premiumColor2 = const Color(0xFFB78F00);
-Color genereColor = const Color(0xFF545454);
+Color genreColor = const Color(0xFF545454);
 Color grey = const Color(0xFF7E7E7E);
 Color greyLight = const Color(0xFF9B9DA7);
 Color greyDark = const Color(0xFF383A50);
@@ -25,5 +25,4 @@ Color red = const Color(0xFFFF0000);
 Color greyTicket = const Color(0xFFDBDBDB);
 Color iconBlack = const Color(0xFF000000);
 Color iconGrey = const Color(0xFFB6B6B6);
-
 Color silver = const Color(0xFFC0C0C0);
